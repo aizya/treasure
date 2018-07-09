@@ -1,31 +1,10 @@
 ### Terminal session recorder
 
 <a href="https://github.com/asciinema/asciinema
-">asciinema</a>: 一个用Python开发的,可以用于记录终端操作的库,说白了就是录屏...
+">asciinema</a>: 一个用Python开发的,可以用于记录终端操作的库,说白了就是录屏...具体用法看项目的README,已经很清楚了.. **录屏还可以上传到**https://asciinema.org, 你也可以在这里看到很多挺有趣的终端操作.
 
-1. 首先需要安装python的运行环境,这个网上一大堆...
+<a href="https://github.com/nbedos/termtosvg">termtosvg</a>: 一个Python库,用于将终端的操作保存成SVG文件,可以用于文档及其他.
 
-2. 其次,安装该工具库
+![Alt text](./resources/termtosvg_1.svg)
 
-    sudo pip3 install asciinema
-
-3. 开始录制,打开终端运行:
-
-    asciinema rec first.cast
-
-4. 播放录制:
-
-    asciinema play first.cast
-
-5. 倍数播放:
-
-    assciinema play -s 2 frist.cast
-
-6. 上传到服务器,这样会生成一个随机的网址,可以插入到自己的网站中,供使用.
-
-    assciinema upload frist.cast
-
-7. 这种相当于是提供一个链接,其实还是很不错的.
-
-### 
-
+<img src="./resources/termtosvg_1.svg">
