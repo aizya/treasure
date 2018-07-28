@@ -29,3 +29,7 @@
     smplayer安装方式: sudo apt-get install w64codecs
     应该还是有比这个还好的,但是没空去找.. 我主要看中了它可加速的特点.. 看起视频来比较好..
     
+#### pdf转word
+
+    https://www.52pojie.cn/thread-632970-1-1.html 可以查看这个网址，使用Solid Converter PDF  v9.2进行转换操作。
+    格式都还可以。
